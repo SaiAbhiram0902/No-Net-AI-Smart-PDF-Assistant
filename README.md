@@ -18,8 +18,8 @@ No-Net AI is an offline AI chatbot that provides human-like responses without in
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/NoNet-AI.git
-   cd NoNet-AI
+   git clone https://github.com/SaiAbhiram0902/No-Net-AI-Smart-PDF-Assistant
+   cd No-Net-AI-Smart-PDF-Assistant
    ```
 2. **Install dependencies:**
    ```bash
