@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymupdf
+langchain-community
+pydantic
+ollama
+gradio
+requests
+pyinstaller
