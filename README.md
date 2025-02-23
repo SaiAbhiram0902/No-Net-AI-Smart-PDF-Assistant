@@ -9,7 +9,7 @@ No-Net AI is an offline AI chatbot that provides human-like responses without in
 
 ### **Prerequisites**
 1. **Windows OS** (Tested on Windows)
-2. **Python 3.8+** (Only needed for development)
+2. **Python 3.8+** (Needed for development)
 3. **Ollama with Mistral-7B model** (Required for local AI processing)
 
 ## Installation  
