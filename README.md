@@ -1,5 +1,5 @@
 # No-Net-AI-Smart-PDF-Assistant
-No-Net AI is an offline AI chatbot that provides human-like responses without internet access, ensuring data privacy and uninterrupted communication
+PDF-based Q&A system with a FastAPI backend and a Gradio frontend. The backend extracts text from uploaded PDFs and uses Ollama's Mistral AI model to answer user questions. The frontend allows users to upload PDFs and interact with the system through a simple web UI.
 
 ## Features
 - Fully offline operation, no internet required
