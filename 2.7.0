@@ -1,0 +1,16 @@
+Collecting pydantic
+  Using cached pydantic-2.10.6-py3-none-any.whl.metadata (30 kB)
+Collecting pydantic-core
+  Using cached pydantic_core-2.29.0-cp311-cp311-win_amd64.whl.metadata (6.7 kB)
+Collecting pydantic-settings
+  Using cached pydantic_settings-2.8.0-py3-none-any.whl.metadata (3.5 kB)
+Requirement already satisfied: annotated-types>=0.6.0 in c:\users\vadde\appdata\local\programs\python\python311\lib\site-packages (from pydantic) (0.7.0)
+Collecting pydantic-core
+  Using cached pydantic_core-2.27.2-cp311-cp311-win_amd64.whl.metadata (6.7 kB)
+Requirement already satisfied: typing-extensions>=4.12.2 in c:\users\vadde\appdata\local\programs\python\python311\lib\site-packages (from pydantic) (4.12.2)
+Requirement already satisfied: python-dotenv>=0.21.0 in c:\users\vadde\appdata\local\programs\python\python311\lib\site-packages (from pydantic-settings) (1.0.1)
+Using cached pydantic-2.10.6-py3-none-any.whl (431 kB)
+Using cached pydantic_core-2.27.2-cp311-cp311-win_amd64.whl (2.0 MB)
+Using cached pydantic_settings-2.8.0-py3-none-any.whl (30 kB)
+Installing collected packages: pydantic-core, pydantic, pydantic-settings
+Successfully installed pydantic-2.10.6 pydantic-core-2.27.2 pydantic-settings-2.8.0
