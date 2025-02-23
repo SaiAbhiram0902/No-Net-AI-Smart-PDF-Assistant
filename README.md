@@ -48,4 +48,4 @@ Ensure you do NOT manually start backend.exe before opening No-Net AI.exe, as it
 If backend.exe is already running, it will cause a port conflict on 9090. Restart your machine or close the existing backend process before running the UI.
 The software is licensed under the MIT License, making it free and open-source for anyone to use and modify.
    
-
+Watch the [demo video](https://drive.google.com/file/d/1ZQG2AOojyNiEti_pFISFRkd-5VOFR4Jo/view?usp=drive_link) demonstrating the project.
